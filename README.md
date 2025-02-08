@@ -24,7 +24,7 @@
 <td width="50%">
 <h3 align="center">Curso de analista de datos con Power BI</h3>
 <div align="center">
-<a href="[https://github.com/ArisGuimera/Android-Expert](https://youtu.be/CD8nQaAsedw?si=p3QQcr3qLCtJsLmm)" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso de analista de datos con Power BI"></a>
+<a href="[https://github.com/ArisGuimera/Android-Expert]([https://youtu.be/CD8nQaAsedw?si=p3QQcr3qLCtJsLmm](https://itlaedudo-my.sharepoint.com/:i:/g/personal/20212370_itla_edu_do/EQQJbblr6KBHui4ghdVqAF4BDZWdmrcR_1a5j2LTms3uZA?e=epMEh6))" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso de analista de datos con Power BI"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
