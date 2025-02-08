@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/oliver-diaz-ynoa-242b84225/">Oliver Diaz</a> 👋</h1>
 </div>
-<img src="https://www.meteorologiaenred.com/wp-content/uploads/2015/04/cielo.jpg">
+<img src="https://www.meteorologiaenred.com/wp-content/uploads/2015/04/cielo.jpg" width ="900">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
