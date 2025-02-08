@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Oliver Diaz</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/oliver-diaz-ynoa-242b84225/">Oliver Diaz</a> 👋</h1>
 </div>
 <img src="[https://i.imgur.com/weNbhGZ.png](https://itlaedudo-my.sharepoint.com/:i:/g/personal/20212370_itla_edu_do/EQQJbblr6KBHui4ghdVqAF4BDZWdmrcR_1a5j2LTms3uZA?e=epMEh6](https://www.meteorologiaenred.com/wp-content/uploads/2015/04/cielo.jpg))">
 
