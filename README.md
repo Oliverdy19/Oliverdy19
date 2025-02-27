@@ -9,17 +9,12 @@
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
--⭐ Data & Analytics Enthusiast ⭐
-
--📊 Senior Analyst en Inteligencia Comercial (Telecomunicaciones)
-
--🌍 Especialista en análisis geoespacial con QGIS
-
--📢 Segmentación de clientes y análisis de retención
-
--🧑‍🏫 Comparto insights sobre Data Analytics semanalmente
-
--🚀 Explorando Machine Learning, Power BI y reconocimiento de objetos en tiempo real
+- ⭐ Data & Analytics Enthusiast ⭐.
+- 📊 Senior Analyst en Inteligencia Comercial (Telecomunicaciones).
+- 🌍 Especialista en análisis geoespacial con QGIS.
+- 📢 Segmentación de clientes y análisis de retención.
+- 🧑‍🏫 Comparto insights sobre Data Analytics semanalmente.
+- 🚀 Explorando Machine Learning, Power BI y reconocimiento de objetos en tiempo real.
 <br>
 
 ## Proyectos *cool*
