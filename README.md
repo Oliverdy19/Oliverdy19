@@ -15,7 +15,6 @@
 - 📢 Segmentación de clientes y análisis de retención.
 - 🧑‍🏫 Comparto insights sobre Data Analytics semanalmente.
 - 🚀 Explorando Machine Learning, Power BI y reconocimiento de objetos en tiempo real.
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
