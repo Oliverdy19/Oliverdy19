@@ -37,15 +37,6 @@ Analista senior en Inteligencia Comercial dentro del sector de telecomunicacione
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/Oliverdy19">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oliverdy19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="Estadísticas de GitHub de Oliverdy19" />
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oliverdy19&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Lenguajes más usados por Oliverdy19" />
-  </a>
-</p>
-
 ---
 
 <div align="center">
